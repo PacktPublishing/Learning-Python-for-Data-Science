@@ -29,9 +29,9 @@ To fully benefit from the coverage included in this course, you will need:<br/>
 This course is an introductory-level data science course for aspiring data scientists with a basic understanding of coding in Python and little to no knowledge of data analytics. If you already know Python, or another programming language; if you want to apply your knowledge in computer programming to data analytics, and learn how to conduct data science; if you have used another language for data science such as R, and want to add Python to your skillset, then this course is for you. Knowledge of intro-level programming topics such as variables, if-else constructs, for and while loops, and functions are highly recommended but not required.	
 ### Technical Requirements
 This course has the following software requirements:<br/>
-•	Python 3.6
-•	Anaconda
-•	Jupyter Notebook
+<LI>Python 3.6
+<LI>Anaconda
+<LI>Jupyter Notebook
 
 
 ## Related Products
