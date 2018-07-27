@@ -17,11 +17,7 @@ Note: Before using the data files either put them in the same folder with the sc
 <LI>Implementing stacks and queues 
 <LI>Applying algorithms such as binary and trees 
 <LI>Exploring different concurrency models for data processing 
-<LI>Build your own tiny distributed search engine 
-<LI>Implementation of stacks and queues 
-<LI>Applying algorithms such as Binary and trees 
-<LI>Exploring different concurrency models for data processing 
-<LI>Build your own tiny distributed search engine </LI></UL></DIV>
+<LI>Build your own tiny distributed search engine</LI></UL></DIV>
 
 ## Instructions and Navigation
 ### Assumed Knowledge
